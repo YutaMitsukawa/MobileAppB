@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">MobileAppB</string>
+    <string name="text">ヒャッハー！</string>
+    <string name="button1">Change</string>
+    <string name="text2">YEAH!!</string>
 </resources>
